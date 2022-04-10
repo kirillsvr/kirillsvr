@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/kirillsvr/kirillsvr/raw/master/assets/banner.png "Header")]
+![Header](https://github.com/kirillsvr/kirillsvr/raw/master/assets/banner.png)
