@@ -55,6 +55,7 @@ class About extends Me
     }
 }
 ```
+<br>
 
 ## A little more about me...
 
@@ -63,3 +64,12 @@ class About extends Me
 - 😀 I like to code, study, ride a bicycle, read, and play chess in my free time
 - 🎓 I want to take part in a hackathon
 - 📫 How to reach me: kirillsvr@mail.ru
+
+<br>
+
+## Find me elsewhere
+<p align="left">
+  <a href="https://www.codewars.com/users/kirillsvr">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
