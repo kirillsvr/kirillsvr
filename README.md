@@ -55,3 +55,11 @@ class About extends Me
     }
 }
 ```
+
+## A little more about me...
+
+- 🌱 I’m currently comprehending the depths of Laravel
+- 👨🏽‍💻 Currently learning Clean Code, DDD, NoSQL, Math and English
+- 😀 I like to code, study, ride a bicycle, read, and play chess in my free time
+- 🎓 I want to take part in a hackathon
+- 📫 How to reach me: kirillsvr@mail.ru
