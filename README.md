@@ -1,1 +1,1 @@
-![Header](https://github.com/kirillsvr/kirillsvr/blob/a77a460130da4bd21cbea5eecec71d00d6c9a7e8/assets/banner.png)
+![Header](https://github.com/kirillsvr/kirillsvr/raw/master/assets/banner.png)
