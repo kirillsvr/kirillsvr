@@ -6,7 +6,7 @@ Hi, I'm Kirill Bondarenko, a junior php developer 👨🏻‍💻. I am a person
 
 <br>
 
-##How I'd define myself...literally
+## How I'd define myself...literally
 
 ```php
 namespace Kirillsvr\Kirillsvr;
