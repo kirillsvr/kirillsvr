@@ -8,11 +8,11 @@ Hi, I'm Kirill Bondarenko, a junior php developer 👨🏻‍💻. I am a person
 
 <h3>How I'd define myself...literally</h3>
 
-...php
+```php
 namespace kirillsvr\kirillsvr;
 
 class AboutMe
 {
 
 }
-...
+```
