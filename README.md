@@ -57,6 +57,14 @@ class About extends Me
 ```
 <br>
 
+## Some projects
+
+<a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
+
+<br>
+
 ## A little more about me...
 
 - 🌱 I’m currently comprehending the depths of Laravel
@@ -73,14 +81,6 @@ class About extends Me
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
-
-## Some projects
-
-<a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
-</a>
 
 <br><br>
 
