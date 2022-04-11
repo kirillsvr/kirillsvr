@@ -79,5 +79,5 @@ class About extends Me
 ## Some projects
 
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=a884f8&text_color=ffffff&icon_color=77bbfe&bg_color=121212&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=a884f8&text_color=ffffff&icon_color=77bbfe&bg_color=161b22&hide_border=true" />
 </a>
