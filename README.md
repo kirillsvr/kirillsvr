@@ -81,3 +81,7 @@ class About extends Me
 <a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
 </a>
+
+<br><br>
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
