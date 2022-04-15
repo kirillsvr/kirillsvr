@@ -62,7 +62,9 @@ class About extends Me
 <a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
 </a>
-
+<a href="https://github.com/kirillsvr/Computer-club-cases" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
 <br><br>
 
 ## A little more about me...
