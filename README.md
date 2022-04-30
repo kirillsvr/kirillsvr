@@ -65,6 +65,21 @@ class About extends Me
 <a href="https://github.com/kirillsvr/Computer-club-cases" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Computer-club-cases&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
 </a>
+<a href="https://github.com/kirillsvr/vape-shop" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=vape-shop&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
+<a href="https://github.com/kirillsvr/marketing-research" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=marketing-research&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
+<a href="https://github.com/kirillsvr/reinforced-concrete-products" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=reinforced-concrete-products&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
+<a href="https://github.com/kirillsvr/cargo-transportation" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=cargo-transportation&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
+<a href="https://github.com/kirillsvr/furnace-store" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=furnace-store&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
+</a>
 <br><br>
 
 ## A little more about me...
