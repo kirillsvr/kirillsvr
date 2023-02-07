@@ -1,8 +1,4 @@
-![Header](https://github.com/kirillsvr/kirillsvr/raw/master/assets/banner.jpg)
-
-<br>
-
-Hi, I'm Kirill Bondarenko, a junior php developer 👨🏻‍💻. I am a person who admires the ability to transform the world with the help of code, with a growing love for kick ass products , clean code and algorithms. Besides Hacking stuff, I play chess ♘ 😎.
+Hi, I'm Kirill Bondarenko, a php developer 👨🏻‍💻. I am a person who admires the ability to transform the world with the help of code, with a growing love for kick ass products , clean code and algorithms. Besides Hacking stuff, I play chess ♘ 😎.
 
 <br>
 
@@ -55,11 +51,11 @@ class About extends Me
     }
 }
 ```
-<br>
+<!-- <br>
 
-## Some projects
+## Some projects -->
 
-<a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
+<!-- <a href="https://github.com/kirillsvr/Cooking-Blog" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=Cooking-Blog&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
 </a>
 <a href="https://github.com/kirillsvr/Computer-club-cases" target="_blank">
@@ -79,7 +75,7 @@ class About extends Me
 </a>
 <a href="https://github.com/kirillsvr/furnace-store" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirillsvr&repo=furnace-store&title_color=ffa657&text_color=ffffff&icon_color=ff7b72&bg_color=161b22&hide_border=true" />
-</a>
+</a> -->
 <br><br>
 
 ## A little more about me...
